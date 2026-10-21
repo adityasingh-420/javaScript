@@ -1,0 +1,1 @@
+class notes of javascript
